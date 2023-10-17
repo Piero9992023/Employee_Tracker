@@ -12,7 +12,7 @@
   ## Installation
   The first step was to install the npm packages which include adding the inquirer packages to the file. The next step I took was to use the require method to use inquirer. Then I started to create the questions/prompt for the user/employee. Other packages that I have used in this project was express, mysql2, and console.table. The first thing a user has to do use my terminal application is to "npm i" to install all the npm packages they will need to start my application. Next the user will have to source all the sql databases through mysql; they can do this by entering mysql using "mysql -u root -p" in their local machine and once they enter mysql then they can source the schema.sql and seeds.sql files, then they can exit mysql. The next step would be to run the server by inputing the command "node server,js" in the terminal. 
   ## Usage
-  Google Drive/Screencastify Link: https://drive.google.com/file/d/1RxuxuQNtyedFGTlVfJgyV6MSn84v8dR-/view 
+  Google Drive/Screencastify Link: https://drive.google.com/file/d/15AEUaxvut_pQ3f_rk1HWYw8T2TLRicGm/view 
   ## Contributors
   Piero Rodriguez(Me) https://github.com/Piero9992023 
   ## License
